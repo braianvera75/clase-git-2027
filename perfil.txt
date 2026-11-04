@@ -1,1 +1,5 @@
+color favorito:azul
 color favorito: gris
+color favorito: verde
+color favorito: azul gris y el verde
+

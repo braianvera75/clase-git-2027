@@ -1,1 +1,1 @@
-color favorito: negro
+color favorito: gris
